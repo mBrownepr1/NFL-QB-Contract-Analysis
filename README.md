@@ -27,4 +27,4 @@ XLOOKUP
 SUM formulas
 
 
-![NFL-QB-Contract-Analysis](NFL-QB-dashboard.png)
+![Image](NFL_QB_Dashboard.png)
