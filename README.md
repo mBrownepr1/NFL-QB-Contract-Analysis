@@ -25,3 +25,6 @@ Pivot Tables
 XLOOKUP
 
 SUM formulas
+
+
+![QB Analysis Dashboard](qb-analysis-dashboard.png)
